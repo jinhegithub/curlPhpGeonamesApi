@@ -19,7 +19,7 @@ $( document ).ready(function() {
 
 function getCityState(country, zip) {
     if( country.length > 0 && zip.length > 0 ) {
-        var username = 'larrydanny'; // please change the username with your username
+        var username = 'your username'; // please change the username with your username
         $.ajax({
             type: 'post',
             url: "./index.php?search=true",
