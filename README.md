@@ -5,6 +5,8 @@ In js/ folder there have one file named custom.js. there line 22 need to change 
 
 <code> var username = 'your username'; // please change the username with your username </code>
 
+For demo click <a href="https://goo.gl/ufvFFB" target="_blank">here</a>
+
 # How to get GeoNames API username?
 1. need to create an account if not any. please click <a href="https://goo.gl/TDPPaM" target="_blank">here</a> for new account.
 2. need to confirm email address.
